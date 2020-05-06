@@ -1,0 +1,1361 @@
+name,value,year,lastValue,rank
+Action,11205,2019.2,11204,1
+Action,11204,2019.1,11003,1
+Action,10286,2018.9,10038,1
+Action,10038,2018.8,9761,1
+Action,9761,2018.7,9481,1
+Action,9481,2018.6,9210,1
+Action,9210,2018.5,8934,1
+Action,8934,2018.4,8663,1
+Action,8663,2018.3,8436,1
+Action,8436,2018.2,8093,1
+Action,8093,2018.1,7821,1
+Action,7033,2017.9,6789,1
+Action,6789,2017.8,6540,1
+Action,6540,2017.7,6274,1
+Action,6274,2017.6,5975,1
+Action,5975,2017.5,5707,1
+Action,5707,2017.4,5475,1
+Action,5475,2017.3,5329,1
+Action,5329,2017.2,5136,1
+Adventure,5249,2019.1,5148,2
+Adventure,5249,2019.2,5249,2
+Action,5136,2017.1,4987,1
+Adventure,4781,2018.9,4670,2
+Adventure,4670,2018.8,4521,2
+Adventure,4521,2018.7,4402,2
+Action,4472,2016.9,4269,1
+Adventure,4402,2018.6,4255,2
+Casual,4371,2019.1,4280,3
+Casual,4371,2019.2,4371,3
+Action,4269,2016.8,4093,1
+Adventure,4255,2018.5,4139,2
+Adventure,4139,2018.4,4002,2
+Action,4093,2016.7,3892,1
+Adventure,4002,2018.3,3882,2
+Casual,3971,2018.9,3837,3
+Action,3892,2016.6,3704,1
+Adventure,3882,2018.2,3754,2
+Casual,3837,2018.8,3682,3
+Adventure,3754,2018.1,3613,2
+Action,3704,2016.5,3511,1
+Casual,3682,2018.7,3565,3
+Casual,3565,2018.6,3427,3
+Action,3511,2016.4,3341,1
+Casual,3427,2018.5,3276,3
+Action,3341,2016.3,3211,1
+Casual,3276,2018.4,3130,3
+Adventure,3244,2017.9,3113,2
+Action,3211,2016.2,3082,1
+Casual,3130,2018.3,2994,3
+Adventure,3113,2017.8,3000,2
+Action,3082,2016.1,2917,1
+Adventure,3000,2017.7,2863,2
+Casual,2994,2018.2,2865,3
+Casual,2865,2018.1,2732,3
+Adventure,2863,2017.6,2753,2
+Adventure,2753,2017.5,2644,2
+Adventure,2644,2017.4,2539,2
+Indie,2616,2019.1,2560,4
+Indie,2616,2019.2,2616,4
+Action,2589,2015.9,2488,1
+Adventure,2539,2017.3,2469,2
+Action,2488,2015.8,2398,1
+Adventure,2469,2017.2,2390,2
+Action,2398,2015.7,2294,1
+Adventure,2390,2017.1,2298,2
+Indie,2354,2018.9,2292,4
+Casual,2335,2017.9,2226,3
+Action,2294,2015.6,2172,1
+Indie,2292,2018.8,2214,4
+Casual,2226,2017.8,2107,3
+Indie,2214,2018.7,2132,4
+Action,2172,2015.5,2066,1
+Indie,2132,2018.6,2060,4
+Casual,2107,2017.7,1974,3
+Action,2066,2015.4,1935,1
+Indie,2060,2018.5,1990,4
+Adventure,2035,2016.9,1952,2
+Indie,1990,2018.4,1924,4
+Casual,1974,2017.6,1867,3
+Adventure,1952,2016.8,1873,2
+Action,1935,2015.3,1842,1
+Indie,1924,2018.3,1869,4
+Adventure,1873,2016.7,1781,2
+Indie,1869,2018.2,1792,4
+Casual,1867,2017.5,1754,3
+Action,1842,2015.2,1751,1
+Indie,1792,2018.1,1739,4
+Adventure,1781,2016.6,1692,2
+Casual,1754,2017.4,1669,3
+Action,1751,2015.1,1645,1
+Adventure,1692,2016.5,1592,2
+Casual,1669,2017.3,1601,3
+Casual,1601,2017.2,1549,3
+Adventure,1592,2016.4,1528,2
+Indie,1582,2017.9,1511,4
+Casual,1549,2017.1,1494,3
+Adventure,1528,2016.3,1458,2
+Indie,1511,2017.8,1459,4
+Indie,1459,2017.7,1401,4
+Adventure,1458,2016.2,1406,2
+Action,1440,2014.9,1388,1
+Adventure,1406,2016.1,1338,2
+Indie,1401,2017.6,1343,4
+Action,1388,2014.8,1336,1
+Indie,1343,2017.5,1290,4
+Action,1336,2014.7,1271,1
+Casual,1329,2016.9,1254,3
+Indie,1290,2017.4,1237,4
+Action,1271,2014.6,1227,1
+Casual,1254,2016.8,1183,3
+Indie,1237,2017.3,1199,4
+Action,1227,2014.5,1179,1
+Indie,1199,2017.2,1168,4
+Casual,1183,2016.7,1108,3
+Action,1179,2014.4,1115,1
+Adventure,1175,2015.9,1141,2
+Indie,1168,2017.1,1140,4
+Adventure,1141,2015.8,1093,2
+Action,1115,2014.3,1066,1
+Casual,1108,2016.6,1034,3
+Adventure,1093,2015.7,1022,2
+Action,1066,2014.2,979,1
+Casual,1034,2016.5,971,3
+Indie,1024,2016.9,988,4
+Adventure,1022,2015.6,964,2
+Indie,988,2016.8,944,4
+Action,979,2014.1,928,1
+Casual,971,2016.4,921,3
+Adventure,964,2015.5,911,2
+Indie,944,2016.7,899,4
+Casual,921,2016.3,855,3
+Adventure,911,2015.4,862,2
+Indie,899,2016.6,859,4
+Adventure,862,2015.3,829,2
+Indie,859,2016.5,819,4
+Casual,855,2016.2,804,3
+Adventure,829,2015.2,764,2
+Indie,819,2016.4,787,4
+Casual,804,2016.1,743,3
+Action,797,2013.9,777,1
+Indie,787,2016.3,766,4
+Action,777,2013.8,751,1
+Indie,766,2016.2,740,4
+Adventure,764,2015.1,726,2
+Action,751,2013.7,721,1
+Indie,740,2016.1,699,4
+Action,721,2013.6,701,1
+Violent,709,2019.1,709,5
+Violent,709,2019.2,709,5
+Violent,708,2018.9,707,5
+Violent,707,2018.7,704,5
+Violent,707,2018.8,707,5
+Violent,704,2018.6,694,5
+Action,701,2013.5,682,1
+Violent,694,2018.5,669,5
+Action,682,2013.4,671,1
+Action,671,2013.3,660,1
+Violent,669,2018.4,631,5
+Action,660,2013.2,645,1
+Action,645,2013.1,628,1
+Casual,642,2015.9,619,3
+Violent,631,2018.3,610,5
+Simulation,630,2019.1,624,6
+Simulation,630,2019.2,630,6
+Indie,620,2015.9,592,4
+Casual,619,2015.8,594,3
+Violent,610,2018.2,585,5
+Adventure,602,2014.9,571,2
+Action,600,2012.9,591,1
+Simulation,597,2018.9,585,6
+Casual,594,2015.7,573,3
+Indie,592,2015.8,566,4
+Action,591,2012.8,570,1
+Violent,585,2018.1,544,5
+Simulation,585,2018.8,569,6
+Casual,573,2015.6,539,3
+Adventure,571,2014.8,540,2
+Action,570,2012.7,550,1
+Simulation,569,2018.7,555,6
+Indie,566,2015.7,532,4
+Simulation,555,2018.6,539,6
+Action,550,2012.6,529,1
+Adventure,540,2014.7,493,2
+Casual,539,2015.5,505,3
+Simulation,539,2018.5,531,6
+Indie,532,2015.6,508,4
+Strategy,532,2019.1,527,7
+Strategy,532,2019.2,532,7
+Simulation,531,2018.4,525,6
+Action,529,2012.5,508,1
+Simulation,525,2018.3,506,6
+Strategy,514,2018.9,506,7
+Action,508,2012.4,501,1
+Indie,508,2015.5,475,4
+Simulation,506,2018.2,499,6
+Strategy,506,2018.8,497,7
+Casual,505,2015.4,478,3
+Action,501,2012.3,492,1
+Simulation,499,2018.1,489,6
+Strategy,497,2018.7,489,7
+Adventure,493,2014.6,473,2
+Action,492,2012.2,479,1
+Strategy,489,2018.6,485,7
+Strategy,485,2018.5,478,7
+Action,479,2012.1,465,1
+Casual,478,2015.3,451,3
+Strategy,478,2018.4,472,7
+Indie,475,2015.4,451,4
+Adventure,473,2014.5,452,2
+Strategy,472,2018.3,469,7
+Strategy,469,2018.2,464,7
+Strategy,464,2018.1,459,7
+Adventure,452,2014.4,413,2
+Casual,451,2015.2,427,3
+Indie,451,2015.3,429,4
+Simulation,448,2017.9,441,6
+Strategy,447,2017.9,441,7
+Simulation,441,2017.8,433,6
+Strategy,441,2017.8,438,7
+Action,440,2011.9,436,1
+Violent,439,2017.9,407,5
+Strategy,438,2017.7,431,7
+Action,436,2011.8,428,1
+Simulation,433,2017.7,417,6
+Strategy,431,2017.6,420,7
+Indie,429,2015.2,392,4
+Action,428,2011.7,416,1
+Casual,427,2015.1,404,3
+Strategy,420,2017.5,408,7
+Simulation,417,2017.6,411,6
+Action,416,2011.6,403,1
+Adventure,413,2014.3,388,2
+Simulation,411,2017.5,407,6
+Strategy,408,2017.4,395,7
+Simulation,407,2017.4,398,6
+Violent,407,2017.8,370,5
+RPG,406,2019.1,402,8
+RPG,406,2019.2,406,8
+Action,403,2011.5,394,1
+Simulation,398,2017.3,389,6
+Strategy,395,2017.3,388,7
+Free to Play,395,2019.1,386,9
+Free to Play,395,2019.2,395,9
+Action,394,2011.4,387,1
+Indie,392,2015.1,373,4
+Simulation,389,2017.2,383,6
+Adventure,388,2014.2,339,2
+Strategy,388,2017.2,381,7
+Action,387,2011.3,379,1
+Simulation,383,2017.1,375,6
+Strategy,381,2017.1,373,7
+Action,379,2011.2,368,1
+Violent,370,2017.7,329,5
+RPG,369,2018.9,358,8
+Action,368,2011.1,359,1
+RPG,358,2018.8,350,8
+Casual,357,2014.9,348,3
+Simulation,352,2016.9,337,6
+Free to Play,351,2018.9,340,9
+RPG,350,2018.7,341,8
+Casual,348,2014.8,339,3
+Strategy,345,2016.9,335,7
+RPG,341,2018.6,324,8
+Free to Play,340,2018.8,328,9
+Action,339,2010.9,335,1
+Adventure,339,2014.1,287,2
+Casual,339,2014.7,327,3
+Simulation,337,2016.8,324,6
+Action,335,2010.8,328,1
+Strategy,335,2016.8,331,7
+Strategy,331,2016.7,324,7
+Violent,329,2017.6,290,5
+Action,328,2010.7,315,1
+Free to Play,328,2018.7,316,9
+Casual,327,2014.6,304,3
+Strategy,324,2016.6,319,7
+Simulation,324,2016.7,313,6
+RPG,324,2018.5,320,8
+RPG,320,2018.4,314,8
+Strategy,319,2016.5,313,7
+Free to Play,316,2018.6,303,9
+Action,315,2010.6,309,1
+RPG,314,2018.3,308,8
+Strategy,313,2016.4,308,7
+Simulation,313,2016.6,298,6
+Action,309,2010.5,306,1
+Strategy,308,2016.3,304,7
+RPG,308,2018.2,303,8
+Indie,307,2014.9,280,4
+Action,306,2010.4,299,1
+Casual,304,2014.5,294,3
+Strategy,304,2016.2,301,7
+RPG,303,2018.1,300,8
+Free to Play,303,2018.5,292,9
+Strategy,301,2016.1,294,7
+Action,299,2010.3,290,1
+Simulation,298,2016.5,289,6
+Casual,294,2014.4,269,3
+Free to Play,292,2018.4,284,9
+Action,290,2010.2,287,1
+Violent,290,2017.5,238,5
+Simulation,289,2016.4,282,6
+Action,287,2010.1,279,1
+RPG,285,2017.9,276,8
+Free to Play,284,2018.3,273,9
+Simulation,282,2016.3,273,6
+Indie,280,2014.8,266,4
+Strategy,276,2015.9,273,7
+RPG,276,2017.8,266,8
+Strategy,273,2015.8,269,7
+Simulation,273,2016.2,265,6
+Free to Play,273,2018.2,265,9
+Casual,269,2014.3,258,3
+Strategy,269,2015.7,267,7
+Strategy,267,2015.6,263,7
+Indie,266,2014.7,247,4
+RPG,266,2017.7,257,8
+Simulation,265,2016.1,258,6
+Free to Play,265,2018.1,258,9
+Strategy,263,2015.5,260,7
+Strategy,260,2015.4,256,7
+Action,258,2009.9,252,1
+Casual,258,2014.2,237,3
+RPG,257,2017.6,251,8
+Strategy,256,2015.3,251,7
+Action,252,2009.8,240,1
+Strategy,251,2015.2,250,7
+RPG,251,2017.5,247,8
+Strategy,250,2015.1,249,7
+Adventure,247,2013.9,235,2
+Indie,247,2014.6,236,4
+RPG,247,2017.4,244,8
+Sexual Content,245,2018.6,241,10
+Sexual Content,245,2018.7,245,10
+Sexual Content,245,2018.8,245,10
+Sexual Content,245,2018.9,245,10
+Sexual Content,245,2019.1,245,10
+Sexual Content,245,2019.2,245,10
+RPG,244,2017.3,239,8
+Sexual Content,241,2018.5,231,10
+Action,240,2009.7,232,1
+RPG,239,2017.2,233,8
+Violent,238,2017.4,210,5
+Casual,237,2014.1,224,3
+Indie,236,2014.5,221,4
+Adventure,235,2013.8,225,2
+Simulation,235,2015.9,230,6
+Strategy,234,2014.9,232,7
+RPG,233,2017.1,226,8
+Free to Play,233,2017.9,224,9
+Action,232,2009.6,218,1
+Strategy,232,2014.8,226,7
+Sexual Content,231,2018.4,222,10
+Simulation,230,2015.8,223,6
+Strategy,226,2014.7,222,7
+Adventure,225,2013.7,211,2
+Free to Play,224,2017.8,219,9
+Simulation,223,2015.7,218,6
+Strategy,222,2014.6,217,7
+Sexual Content,222,2018.3,216,10
+Indie,221,2014.4,205,4
+Free to Play,219,2017.7,211,9
+Action,218,2009.5,206,1
+Simulation,218,2015.6,215,6
+Strategy,217,2014.5,214,7
+RPG,216,2016.9,209,8
+Sexual Content,216,2018.2,201,10
+Simulation,215,2015.5,209,6
+Strategy,214,2014.4,209,7
+Adventure,211,2013.6,201,2
+Free to Play,211,2017.6,197,9
+Violent,210,2017.3,193,5
+Strategy,209,2014.3,207,7
+Simulation,209,2015.4,205,6
+RPG,209,2016.8,207,8
+Strategy,207,2014.2,204,7
+RPG,207,2016.7,203,8
+Action,206,2009.4,190,1
+Indie,205,2014.3,193,4
+Simulation,205,2015.3,201,6
+Strategy,204,2014.1,193,7
+RPG,203,2016.6,200,8
+Adventure,201,2013.5,197,2
+Simulation,201,2015.2,192,6
+Sexual Content,201,2018.1,187,10
+RPG,200,2016.5,192,8
+Adventure,197,2013.4,193,2
+Free to Play,197,2017.5,187,9
+Adventure,193,2013.3,192,2
+Indie,193,2014.2,173,4
+Violent,193,2017.2,166,5
+Adventure,192,2013.2,190,2
+Casual,192,2013.9,188,3
+Simulation,192,2015.1,181,6
+RPG,192,2016.4,186,8
+Action,190,2009.3,177,1
+Adventure,190,2013.1,184,2
+Casual,188,2013.8,175,3
+Free to Play,187,2017.4,180,9
+Strategy,186,2013.9,185,7
+RPG,186,2016.3,183,8
+Strategy,185,2013.8,182,7
+RPG,183,2016.2,181,8
+Strategy,182,2013.6,180,7
+Strategy,182,2013.7,182,7
+RPG,181,2016.1,178,8
+Strategy,180,2013.5,178,7
+Free to Play,180,2017.3,176,9
+Strategy,178,2013.3,173,7
+Strategy,178,2013.4,178,7
+Action,177,2009.2,167,1
+Free to Play,176,2017.2,172,9
+Casual,175,2013.7,169,3
+Adventure,174,2012.9,170,2
+Strategy,173,2013.2,172,7
+Indie,173,2014.1,164,4
+Strategy,172,2013.1,171,7
+Free to Play,172,2017.1,164,9
+Adventure,170,2012.8,166,2
+Strategy,169,2012.8,168,7
+Strategy,169,2012.9,169,7
+Casual,169,2013.6,168,3
+RPG,169,2015.9,161,8
+Strategy,168,2012.7,163,7
+Casual,168,2013.5,166,3
+Action,167,2009.1,165,1
+Adventure,166,2012.7,162,2
+Casual,166,2013.3,162,3
+Casual,166,2013.4,166,3
+Violent,166,2017.1,146,5
+Strategy,163,2012.5,161,7
+Strategy,163,2012.6,163,7
+Adventure,162,2012.6,159,2
+Casual,162,2013.2,159,3
+Simulation,162,2014.9,158,6
+Strategy,161,2012.4,160,7
+RPG,161,2015.8,157,8
+Strategy,160,2012.3,159,7
+Strategy,159,2012.2,157,7
+Adventure,159,2012.5,153,2
+Casual,159,2013.1,159,3
+Simulation,158,2014.8,142,6
+Strategy,157,2012.1,156,7
+RPG,157,2015.7,151,8
+Strategy,153,2011.8,149,7
+Strategy,153,2011.9,153,7
+Adventure,153,2012.4,151,2
+Casual,153,2012.9,152,3
+Casual,152,2012.8,151,3
+Sexual Content,152,2017.9,144,10
+Action,151,2008.9,145,1
+Adventure,151,2012.3,150,2
+Casual,151,2012.7,149,3
+RPG,151,2015.6,148,8
+Free to Play,151,2016.9,140,9
+Adventure,150,2012.2,143,2
+Strategy,149,2011.7,147,7
+Casual,149,2012.6,147,3
+RPG,148,2015.5,145,8
+Strategy,147,2011.6,142,7
+Casual,147,2012.5,146,3
+Casual,146,2012.3,144,3
+Casual,146,2012.4,146,3
+Action,145,2008.8,140,1
+RPG,145,2015.4,144,8
+Casual,144,2012.2,142,3
+RPG,144,2015.2,137,8
+RPG,144,2015.3,144,8
+Sexual Content,144,2017.8,130,10
+Adventure,143,2012.1,139,2
+Strategy,142,2011.5,133,7
+Casual,142,2012.1,141,3
+Simulation,142,2014.7,136,6
+Action,140,2008.7,132,1
+Indie,140,2013.9,138,4
+Free to Play,140,2016.8,130,9
+Indie,138,2013.8,133,4
+RPG,137,2015.1,134,8
+Simulation,136,2014.6,128,6
+Casual,134,2011.7,130,3
+Casual,134,2011.8,134,3
+Casual,134,2011.9,134,3
+Strategy,133,2011.4,132,7
+Indie,133,2013.7,123,4
+Action,132,2008.6,126,1
+Strategy,132,2011.3,127,7
+Casual,130,2011.4,128,3
+Casual,130,2011.5,130,3
+Casual,130,2011.6,130,3
+Free to Play,130,2016.7,119,9
+Sexual Content,130,2017.7,120,10
+Casual,128,2011.3,126,3
+Simulation,128,2014.5,123,6
+Strategy,127,2011.2,126,7
+Action,126,2008.5,125,1
+Strategy,126,2011.1,124,7
+Casual,126,2011.2,125,3
+Action,125,2008.4,120,1
+Casual,125,2011.1,124,3
+Adventure,125,2011.8,121,2
+Adventure,125,2011.9,125,2
+Indie,123,2013.6,121,4
+Simulation,123,2014.4,119,6
+RPG,123,2014.9,120,8
+Strategy,121,2010.9,119,7
+Adventure,121,2011.7,117,2
+Indie,121,2013.5,118,4
+Action,120,2008.3,119,1
+Casual,120,2010.9,119,3
+RPG,120,2014.8,118,8
+Sexual Content,120,2017.6,104,10
+Action,119,2008.2,116,1
+Casual,119,2010.8,115,3
+Strategy,119,2010.8,118,7
+Simulation,119,2014.3,111,6
+Free to Play,119,2016.6,116,9
+Strategy,118,2010.7,117,7
+Indie,118,2013.4,117,4
+RPG,118,2014.7,117,8
+Strategy,117,2010.6,114,7
+Adventure,117,2011.6,114,2
+Indie,117,2013.3,114,4
+RPG,117,2014.6,113,8
+Action,116,2008.1,111,1
+Free to Play,116,2016.5,110,9
+Casual,115,2010.6,113,3
+Casual,115,2010.7,115,3
+Strategy,114,2010.5,109,7
+Adventure,114,2011.5,109,2
+Indie,114,2013.2,109,4
+Casual,113,2010.4,110,3
+Casual,113,2010.5,113,3
+RPG,113,2014.5,110,8
+Simulation,111,2014.2,103,6
+Casual,110,2010.3,108,3
+RPG,110,2014.4,108,8
+Free to Play,110,2016.4,104,9
+Strategy,109,2010.4,104,7
+Adventure,109,2011.4,105,2
+Indie,109,2013.1,105,4
+Casual,108,2010.2,98,3
+RPG,108,2014.3,106,8
+RPG,106,2014.2,102,8
+Adventure,105,2011.3,102,2
+Strategy,104,2010.3,103,7
+Free to Play,104,2016.3,99,9
+Sexual Content,104,2017.5,96,10
+Strategy,103,2010.2,102,7
+Simulation,103,2014.1,100,6
+Strategy,102,2010.1,100,7
+Adventure,102,2011.2,97,2
+RPG,102,2014.1,94,8
+Indie,100,2012.8,97,4
+Indie,100,2012.9,100,4
+Free to Play,99,2016.2,92,9
+Casual,98,2010.1,85,3
+Adventure,97,2011.1,93,2
+Indie,97,2012.7,91,4
+Sexual Content,96,2017.4,86,10
+Strategy,93,2009.9,91,7
+Free to Play,92,2016.1,86,9
+Action,91,2007.9,90,1
+Strategy,91,2009.8,84,7
+Indie,91,2012.6,86,4
+Action,90,2007.8,86,1
+Adventure,90,2010.9,89,2
+Simulation,90,2013.9,88,6
+Adventure,89,2010.8,87,2
+Simulation,88,2013.8,82,6
+Adventure,87,2010.7,81,2
+Action,86,2007.7,82,1
+Indie,86,2012.5,83,4
+Sexual Content,86,2017.3,80,10
+RPG,85,2013.9,84,8
+Strategy,84,2009.7,80,7
+RPG,84,2013.8,83,8
+Indie,83,2012.3,77,4
+Indie,83,2012.4,83,4
+RPG,83,2013.7,82,8
+Action,82,2007.6,81,1
+RPG,82,2013.6,80,8
+Simulation,82,2013.7,78,6
+Action,81,2007.5,60,1
+Adventure,81,2010.6,77,2
+Strategy,80,2009.6,78,7
+RPG,80,2013.4,79,8
+RPG,80,2013.5,80,8
+Sexual Content,80,2017.2,73,10
+RPG,79,2013.1,79,8
+RPG,79,2013.2,79,8
+RPG,79,2013.3,79,8
+Strategy,78,2009.5,75,7
+RPG,78,2012.9,76,8
+Simulation,78,2013.6,77,6
+Violent,78,2016.9,53,5
+Adventure,77,2010.5,74,2
+Indie,77,2012.2,76,4
+Simulation,77,2013.5,76,6
+Indie,76,2012.1,73,4
+RPG,76,2012.8,75,8
+Simulation,76,2013.1,75,6
+Simulation,76,2013.2,76,6
+Simulation,76,2013.3,76,6
+Simulation,76,2013.4,76,6
+Strategy,75,2009.4,72,7
+RPG,75,2012.7,72,8
+Adventure,74,2010.4,70,2
+Sexual Content,73,2017.1,68,10
+Strategy,72,2009.3,69,7
+Casual,72,2009.9,69,3
+RPG,72,2012.5,70,8
+RPG,72,2012.6,72,8
+Simulation,71,2012.6,70,6
+Simulation,71,2012.7,71,6
+Simulation,71,2012.8,71,6
+Simulation,71,2012.9,71,6
+Adventure,70,2010.3,69,2
+Simulation,70,2012.2,69,6
+Simulation,70,2012.3,70,6
+Simulation,70,2012.4,70,6
+RPG,70,2012.4,69,8
+Simulation,70,2012.5,70,6
+Strategy,69,2009.2,67,7
+Casual,69,2009.7,65,3
+Casual,69,2009.8,69,3
+Adventure,69,2010.1,66,2
+Adventure,69,2010.2,69,2
+Indie,69,2011.9,68,4
+Simulation,69,2012.1,69,6
+RPG,69,2012.3,68,8
+Free to Play,69,2015.9,64,9
+Indie,68,2011.8,66,4
+RPG,68,2012.2,65,8
+Strategy,67,2009.1,65,7
+Simulation,67,2011.7,63,6
+Simulation,67,2011.8,67,6
+Simulation,67,2011.9,67,6
+Indie,66,2011.7,65,4
+Casual,65,2009.6,64,3
+Indie,65,2011.5,62,4
+Indie,65,2011.6,65,4
+RPG,65,2012.1,63,8
+Casual,64,2009.5,62,3
+Free to Play,64,2015.8,61,9
+Simulation,63,2011.6,62,6
+Casual,62,2009.4,53,3
+Adventure,62,2009.9,58,2
+Indie,62,2011.4,60,4
+Simulation,62,2011.5,61,6
+Simulation,61,2011.3,59,6
+Simulation,61,2011.4,61,6
+Free to Play,61,2015.7,60,9
+Action,60,2007.4,57,1
+Indie,60,2011.3,59,4
+Free to Play,60,2015.6,58,9
+Simulation,59,2011.1,59,6
+Indie,59,2011.2,54,4
+Simulation,59,2011.2,59,6
+RPG,59,2011.8,58,8
+RPG,59,2011.9,59,8
+Adventure,58,2009.8,55,2
+RPG,58,2011.7,57,8
+Free to Play,58,2015.5,53,9
+Action,57,2007.3,54,1
+RPG,57,2011.6,53,8
+Adventure,55,2009.7,45,2
+Simulation,55,2010.7,51,6
+Simulation,55,2010.8,55,6
+Simulation,55,2010.9,55,6
+Action,54,2007.2,53,1
+Strategy,54,2008.9,53,7
+Indie,54,2011.1,54,4
+Action,53,2007.1,53,1
+Strategy,53,2008.8,50,7
+Casual,53,2009.2,49,3
+Casual,53,2009.3,53,3
+RPG,53,2011.5,52,8
+Free to Play,53,2015.4,49,9
+Violent,53,2016.8,39,5
+RPG,52,2011.4,51,8
+Simulation,51,2010.6,49,6
+RPG,51,2011.1,50,8
+RPG,51,2011.2,51,8
+RPG,51,2011.3,51,8
+Strategy,50,2008.7,47,7
+Casual,49,2009.1,43,3
+Simulation,49,2010.5,48,6
+Indie,49,2010.8,47,4
+Indie,49,2010.9,49,4
+Free to Play,49,2015.2,46,9
+Free to Play,49,2015.3,49,9
+Simulation,48,2010.4,43,6
+Strategy,47,2008.6,41,7
+Indie,47,2010.7,44,4
+RPG,47,2010.8,46,8
+RPG,47,2010.9,47,8
+Sexual Content,47,2016.9,40,10
+RPG,46,2010.7,41,8
+Free to Play,46,2015.1,39,9
+Adventure,45,2009.6,42,2
+Indie,44,2010.6,42,4
+Simulation,43,2010.3,41,6
+Adventure,42,2009.5,36,2
+Indie,42,2010.5,41,4
+Strategy,41,2008.4,40,7
+Strategy,41,2008.5,41,7
+Simulation,41,2010.1,39,6
+Simulation,41,2010.2,41,6
+Indie,41,2010.4,40,4
+RPG,41,2010.6,39,8
+Strategy,40,2008.2,39,7
+Strategy,40,2008.3,40,7
+Indie,40,2010.3,39,4
+Sexual Content,40,2016.8,36,10
+Strategy,39,2008.1,39,7
+Indie,39,2010.1,38,4
+Indie,39,2010.2,39,4
+RPG,39,2010.4,38,8
+RPG,39,2010.5,39,8
+Violent,39,2016.7,29,5
+Casual,38,2008.9,36,3
+RPG,38,2010.3,37,8
+Strategy,37,2007.5,30,7
+Strategy,37,2007.6,37,7
+Strategy,37,2007.7,37,7
+Strategy,37,2007.8,37,7
+Strategy,37,2007.9,37,7
+RPG,37,2010.1,36,8
+RPG,37,2010.2,37,8
+Casual,36,2008.8,35,3
+Adventure,36,2009.4,21,2
+Indie,36,2009.8,33,4
+Indie,36,2009.9,36,4
+Simulation,36,2009.9,32,6
+Sexual Content,36,2016.7,29,10
+Casual,35,2008.7,32,3
+Action,34,2006.8,33,1
+Action,34,2006.9,34,1
+Action,33,2006.7,27,1
+Indie,33,2009.7,31,4
+Casual,32,2008.4,30,3
+Casual,32,2008.5,32,3
+Casual,32,2008.6,32,3
+Simulation,32,2009.8,31,6
+Indie,31,2009.6,29,4
+Simulation,31,2009.7,29,6
+RPG,31,2009.9,30,8
+Free to Play,31,2014.9,28,9
+Strategy,30,2007.4,29,7
+Casual,30,2008.3,21,3
+RPG,30,2009.8,24,8
+Strategy,29,2007.2,25,7
+Strategy,29,2007.3,29,7
+Indie,29,2009.5,28,4
+Simulation,29,2009.6,27,6
+Violent,29,2016.6,27,5
+Sexual Content,29,2016.6,28,10
+Indie,28,2009.4,26,4
+Free to Play,28,2014.7,26,9
+Free to Play,28,2014.8,28,9
+Sexual Content,28,2016.5,26,10
+Action,27,2006.6,24,1
+Simulation,27,2009.5,19,6
+Violent,27,2016.5,24,5
+Indie,26,2009.3,25,4
+Free to Play,26,2014.6,25,9
+Sexual Content,26,2016.4,25,10
+Strategy,25,2007.1,23,7
+Indie,25,2009.1,24,4
+Indie,25,2009.2,25,4
+Free to Play,25,2014.5,21,9
+Sexual Content,25,2016.3,21,10
+Action,24,2006.4,23,1
+Action,24,2006.5,24,1
+RPG,24,2009.7,22,8
+Violent,24,2016.4,21,5
+Action,23,2006.3,22,1
+Strategy,23,2006.9,21,7
+Action,22,2006.2,19,1
+RPG,22,2009.5,21,8
+RPG,22,2009.6,22,8
+Strategy,21,2006.8,18,7
+Casual,21,2008.2,14,3
+Adventure,21,2009.3,17,2
+RPG,21,2009.3,18,8
+RPG,21,2009.4,21,8
+Free to Play,21,2014.4,20,9
+Sexual Content,21,2016.2,20,10
+Violent,21,2016.3,19,5
+Free to Play,20,2014.2,18,9
+Free to Play,20,2014.3,20,9
+Sexual Content,20,2016.1,18,10
+Action,19,2006.1,19,1
+Simulation,19,2009.4,17,6
+Violent,19,2016.2,16,5
+Action,18,2005.7,17,1
+Strategy,18,2006.7,11,7
+RPG,18,2009.2,15,8
+Free to Play,18,2014.1,17,9
+Action,17,2004.8,14,1
+Action,17,2005.1,17,1
+Action,17,2005.4,17,1
+Action,17,2005.5,17,1
+Indie,17,2008.9,15,4
+Adventure,17,2009.1,17,2
+Adventure,17,2009.2,17,2
+Simulation,17,2009.3,12,6
+Free to Play,16,2013.8,15,9
+Free to Play,16,2013.9,16,9
+Violent,16,2016.1,15,5
+Indie,15,2008.8,14,4
+Adventure,15,2008.9,14,2
+RPG,15,2009.1,13,8
+Free to Play,15,2013.6,14,9
+Free to Play,15,2013.7,15,9
+Action,14,2004.3,13,1
+Casual,14,2008.1,14,3
+Indie,14,2008.7,12,4
+Adventure,14,2008.8,13,2
+Free to Play,14,2013.5,13,9
+Violent,14,2015.9,13,5
+Adventure,13,2008.5,9,2
+Adventure,13,2008.6,13,2
+Adventure,13,2008.7,13,2
+Free to Play,13,2013.1,13,9
+Free to Play,13,2013.2,13,9
+Free to Play,13,2013.3,13,9
+Free to Play,13,2013.4,13,9
+Violent,13,2015.6,12,5
+Violent,13,2015.7,13,5
+Violent,13,2015.8,13,5
+Sexual Content,13,2015.9,12,10
+Casual,12,2007.9,10,3
+Indie,12,2008.6,10,4
+Simulation,12,2009.2,11,6
+Violent,12,2015.5,11,5
+Sexual Content,12,2015.8,11,10
+Action,11,2003.8,10,1
+Strategy,11,2006.4,6,7
+Strategy,11,2006.5,11,7
+Strategy,11,2006.6,11,7
+Simulation,11,2009.1,11,6
+Violent,11,2015.1,11,5
+Violent,11,2015.2,11,5
+Violent,11,2015.3,11,5
+Violent,11,2015.4,11,5
+Sexual Content,11,2015.6,10,10
+Sexual Content,11,2015.7,11,10
+Action,10,2003.2,9,1
+Action,10,2003.4,10,1
+Casual,10,2007.7,9,3
+Casual,10,2007.8,10,3
+Indie,10,2008.4,9,4
+Indie,10,2008.5,10,4
+RPG,10,2008.7,9,8
+RPG,10,2008.8,10,8
+RPG,10,2008.9,10,8
+Sexual Content,10,2015.5,7,10
+Action,9,2001.3,7,1
+Action,9,2001.9,9,1
+Action,9,2002.5,9,1
+Casual,9,2007.6,8,3
+Indie,9,2008.3,8,4
+Adventure,9,2008.4,8,2
+RPG,9,2008.6,8,8
+Simulation,9,2008.9,7,6
+Free to Play,9,2012.9,8,9
+Violent,9,2014.9,8,5
+Casual,8,2007.3,6,3
+Casual,8,2007.4,8,3
+Casual,8,2007.5,8,3
+Indie,8,2008.2,7,4
+Adventure,8,2008.3,5,2
+RPG,8,2008.4,7,8
+RPG,8,2008.5,8,8
+Free to Play,8,2012.3,7,9
+Free to Play,8,2012.4,8,9
+Free to Play,8,2012.5,8,9
+Free to Play,8,2012.6,8,9
+Free to Play,8,2012.7,8,9
+Free to Play,8,2012.8,8,9
+Violent,8,2014.5,7,5
+Violent,8,2014.6,8,5
+Violent,8,2014.7,8,5
+Violent,8,2014.8,8,5
+Indie,7,2007.4,5,4
+Indie,7,2007.5,7,4
+Indie,7,2007.6,7,4
+Indie,7,2007.7,7,4
+Indie,7,2007.8,7,4
+Indie,7,2007.9,7,4
+Indie,7,2008.1,7,4
+RPG,7,2008.1,7,8
+RPG,7,2008.2,7,8
+RPG,7,2008.3,7,8
+Simulation,7,2008.8,6,6
+Free to Play,7,2012.1,7,9
+Free to Play,7,2012.2,7,9
+Violent,7,2014.1,7,5
+Violent,7,2014.2,7,5
+Violent,7,2014.3,7,5
+Violent,7,2014.4,7,5
+Sexual Content,7,2015.4,6,10
+Action,6,2000.8,4,1
+Strategy,6,2006.1,5,7
+Strategy,6,2006.2,6,7
+Strategy,6,2006.3,6,7
+Casual,6,2007.1,6,3
+Casual,6,2007.2,6,3
+RPG,6,2007.7,5,8
+RPG,6,2007.8,6,8
+RPG,6,2007.9,6,8
+Simulation,6,2008.6,5,6
+Simulation,6,2008.7,6,6
+Violent,6,2013.5,5,5
+Violent,6,2013.6,6,5
+Violent,6,2013.7,6,5
+Violent,6,2013.8,6,5
+Violent,6,2013.9,6,5
+Sexual Content,6,2015.2,5,10
+Sexual Content,6,2015.3,6,10
+Indie,5,2006.8,4,4
+Casual,5,2006.9,3,3
+Indie,5,2006.9,5,4
+Indie,5,2007.1,5,4
+RPG,5,2007.1,4,8
+Indie,5,2007.2,5,4
+RPG,5,2007.2,5,8
+Indie,5,2007.3,5,4
+RPG,5,2007.3,5,8
+RPG,5,2007.4,5,8
+RPG,5,2007.5,5,8
+RPG,5,2007.6,5,8
+Adventure,5,2008.2,4,2
+Simulation,5,2008.5,4,6
+Violent,5,2012.7,3,5
+Violent,5,2012.8,5,5
+Violent,5,2012.9,5,5
+Violent,5,2013.1,5,5
+Violent,5,2013.2,5,5
+Violent,5,2013.3,5,5
+Violent,5,2013.4,5,5
+Sexual Content,5,2015.1,5,10
+Action,4,1999.8,3,1
+Indie,4,2006.6,3,4
+Indie,4,2006.7,4,4
+Adventure,4,2007.5,3,2
+Adventure,4,2007.6,4,2
+Adventure,4,2007.7,4,2
+Adventure,4,2007.8,4,2
+Adventure,4,2007.9,4,2
+Adventure,4,2008.1,4,2
+Simulation,4,2008.4,3,6
+Free to Play,4,2011.9,3,9
+Sexual Content,4,2014.9,3,10
+Action,3,1999.1,2,1
+Strategy,3,2005.1,2,7
+Strategy,3,2005.4,3,7
+Strategy,3,2005.5,3,7
+Strategy,3,2005.7,3,7
+Indie,3,2006.5,2,4
+Casual,3,2006.7,2,3
+Casual,3,2006.8,3,3
+Adventure,3,2007.1,3,2
+Adventure,3,2007.2,3,2
+Adventure,3,2007.3,3,2
+Adventure,3,2007.4,3,2
+Violent,3,2007.4,2,5
+Violent,3,2007.5,3,5
+Violent,3,2007.6,3,5
+Violent,3,2007.7,3,5
+Violent,3,2007.8,3,5
+Violent,3,2007.9,3,5
+Violent,3,2008.1,3,5
+Violent,3,2008.2,3,5
+Violent,3,2008.3,3,5
+Simulation,3,2008.3,0,6
+Violent,3,2008.4,3,5
+Violent,3,2008.5,3,5
+Violent,3,2008.6,3,5
+Violent,3,2008.7,3,5
+Violent,3,2008.8,3,5
+Violent,3,2008.9,3,5
+Violent,3,2009.1,3,5
+Violent,3,2009.2,3,5
+Violent,3,2009.3,3,5
+Violent,3,2009.4,3,5
+Violent,3,2009.5,3,5
+Violent,3,2009.6,3,5
+Violent,3,2009.7,3,5
+Violent,3,2009.8,3,5
+Violent,3,2009.9,3,5
+Violent,3,2010.1,3,5
+Violent,3,2010.2,3,5
+Violent,3,2010.3,3,5
+Violent,3,2010.4,3,5
+Violent,3,2010.5,3,5
+Violent,3,2010.6,3,5
+Violent,3,2010.7,3,5
+Violent,3,2010.8,3,5
+Violent,3,2010.9,3,5
+Violent,3,2011.1,3,5
+Violent,3,2011.2,3,5
+Violent,3,2011.3,3,5
+Free to Play,3,2011.3,1,9
+Violent,3,2011.4,3,5
+Free to Play,3,2011.4,3,9
+Violent,3,2011.5,3,5
+Free to Play,3,2011.5,3,9
+Violent,3,2011.6,3,5
+Free to Play,3,2011.6,3,9
+Violent,3,2011.7,3,5
+Free to Play,3,2011.7,3,9
+Violent,3,2011.8,3,5
+Free to Play,3,2011.8,3,9
+Violent,3,2011.9,3,5
+Violent,3,2012.1,3,5
+Violent,3,2012.2,3,5
+Violent,3,2012.3,3,5
+Violent,3,2012.4,3,5
+Violent,3,2012.5,3,5
+Violent,3,2012.6,3,5
+Sexual Content,3,2014.4,2,10
+Sexual Content,3,2014.5,3,10
+Sexual Content,3,2014.6,3,10
+Sexual Content,3,2014.7,3,10
+Sexual Content,3,2014.8,3,10
+Action,2,1998.8,1,1
+Strategy,2,2003.4,1,7
+Strategy,2,2003.8,2,7
+Strategy,2,2004.3,2,7
+Strategy,2,2004.8,2,7
+RPG,2,2005.5,1,8
+Indie,2,2005.7,1,4
+RPG,2,2005.7,2,8
+Indie,2,2006.1,2,4
+RPG,2,2006.1,2,8
+Indie,2,2006.2,2,4
+RPG,2,2006.2,2,8
+Indie,2,2006.3,2,4
+RPG,2,2006.3,2,8
+Indie,2,2006.4,2,4
+RPG,2,2006.4,2,8
+Casual,2,2006.5,0,3
+RPG,2,2006.5,2,8
+Casual,2,2006.6,2,3
+Violent,2,2006.6,1,5
+RPG,2,2006.6,2,8
+Violent,2,2006.7,2,5
+RPG,2,2006.7,2,8
+Violent,2,2006.8,2,5
+RPG,2,2006.8,2,8
+Violent,2,2006.9,2,5
+RPG,2,2006.9,2,8
+Violent,2,2007.1,2,5
+Violent,2,2007.2,2,5
+Violent,2,2007.3,2,5
+Sexual Content,2,2014.1,2,10
+Sexual Content,2,2014.2,2,10
+Sexual Content,2,2014.3,2,10
+Action,1,1997.3,0,1
+Strategy,1,2001.9,0,7
+Violent,1,2002.5,0,5
+Strategy,1,2002.5,1,7
+Violent,1,2003.2,1,5
+Strategy,1,2003.2,1,7
+Violent,1,2003.4,1,5
+Violent,1,2003.8,1,5
+Violent,1,2004.3,1,5
+Violent,1,2004.8,1,5
+Violent,1,2005.1,1,5
+Indie,1,2005.4,0,4
+Violent,1,2005.4,1,5
+RPG,1,2005.4,0,8
+Indie,1,2005.5,1,4
+Violent,1,2005.5,1,5
+Violent,1,2005.7,1,5
+Violent,1,2006.1,1,5
+Violent,1,2006.2,1,5
+Violent,1,2006.3,1,5
+Violent,1,2006.4,1,5
+Violent,1,2006.5,1,5
+Free to Play,1,2011.1,0,9
+Free to Play,1,2011.2,1,9
+Sexual Content,1,2013.7,0,10
+Sexual Content,1,2013.8,1,10
+Sexual Content,1,2013.9,1,10
+Adventure,0,1997.3,0,2
+Casual,0,1997.3,0,3
+Indie,0,1997.3,0,4
+Violent,0,1997.3,0,5
+Simulation,0,1997.3,0,6
+Strategy,0,1997.3,0,7
+RPG,0,1997.3,0,8
+Free to Play,0,1997.3,0,9
+Sexual Content,0,1997.3,0,10
+Adventure,0,1998.8,0,2
+Casual,0,1998.8,0,3
+Indie,0,1998.8,0,4
+Violent,0,1998.8,0,5
+Simulation,0,1998.8,0,6
+Strategy,0,1998.8,0,7
+RPG,0,1998.8,0,8
+Free to Play,0,1998.8,0,9
+Sexual Content,0,1998.8,0,10
+Adventure,0,1999.1,0,2
+Casual,0,1999.1,0,3
+Indie,0,1999.1,0,4
+Violent,0,1999.1,0,5
+Simulation,0,1999.1,0,6
+Strategy,0,1999.1,0,7
+RPG,0,1999.1,0,8
+Free to Play,0,1999.1,0,9
+Sexual Content,0,1999.1,0,10
+Adventure,0,1999.8,0,2
+Casual,0,1999.8,0,3
+Indie,0,1999.8,0,4
+Violent,0,1999.8,0,5
+Simulation,0,1999.8,0,6
+Strategy,0,1999.8,0,7
+RPG,0,1999.8,0,8
+Free to Play,0,1999.8,0,9
+Sexual Content,0,1999.8,0,10
+Adventure,0,2000.8,0,2
+Casual,0,2000.8,0,3
+Indie,0,2000.8,0,4
+Violent,0,2000.8,0,5
+Simulation,0,2000.8,0,6
+Strategy,0,2000.8,0,7
+RPG,0,2000.8,0,8
+Free to Play,0,2000.8,0,9
+Sexual Content,0,2000.8,0,10
+Adventure,0,2001.3,0,2
+Casual,0,2001.3,0,3
+Indie,0,2001.3,0,4
+Violent,0,2001.3,0,5
+Simulation,0,2001.3,0,6
+Strategy,0,2001.3,0,7
+RPG,0,2001.3,0,8
+Free to Play,0,2001.3,0,9
+Sexual Content,0,2001.3,0,10
+Adventure,0,2001.9,0,2
+Casual,0,2001.9,0,3
+Indie,0,2001.9,0,4
+Violent,0,2001.9,0,5
+Simulation,0,2001.9,0,6
+RPG,0,2001.9,0,8
+Free to Play,0,2001.9,0,9
+Sexual Content,0,2001.9,0,10
+Adventure,0,2002.5,0,2
+Casual,0,2002.5,0,3
+Indie,0,2002.5,0,4
+Simulation,0,2002.5,0,6
+RPG,0,2002.5,0,8
+Free to Play,0,2002.5,0,9
+Sexual Content,0,2002.5,0,10
+Adventure,0,2003.2,0,2
+Casual,0,2003.2,0,3
+Indie,0,2003.2,0,4
+Simulation,0,2003.2,0,6
+RPG,0,2003.2,0,8
+Free to Play,0,2003.2,0,9
+Sexual Content,0,2003.2,0,10
+Adventure,0,2003.4,0,2
+Casual,0,2003.4,0,3
+Indie,0,2003.4,0,4
+Simulation,0,2003.4,0,6
+RPG,0,2003.4,0,8
+Free to Play,0,2003.4,0,9
+Sexual Content,0,2003.4,0,10
+Adventure,0,2003.8,0,2
+Casual,0,2003.8,0,3
+Indie,0,2003.8,0,4
+Simulation,0,2003.8,0,6
+RPG,0,2003.8,0,8
+Free to Play,0,2003.8,0,9
+Sexual Content,0,2003.8,0,10
+Adventure,0,2004.3,0,2
+Casual,0,2004.3,0,3
+Indie,0,2004.3,0,4
+Simulation,0,2004.3,0,6
+RPG,0,2004.3,0,8
+Free to Play,0,2004.3,0,9
+Sexual Content,0,2004.3,0,10
+Adventure,0,2004.8,0,2
+Casual,0,2004.8,0,3
+Indie,0,2004.8,0,4
+Simulation,0,2004.8,0,6
+RPG,0,2004.8,0,8
+Free to Play,0,2004.8,0,9
+Sexual Content,0,2004.8,0,10
+Adventure,0,2005.1,0,2
+Casual,0,2005.1,0,3
+Indie,0,2005.1,0,4
+Simulation,0,2005.1,0,6
+RPG,0,2005.1,0,8
+Free to Play,0,2005.1,0,9
+Sexual Content,0,2005.1,0,10
+Adventure,0,2005.4,0,2
+Casual,0,2005.4,0,3
+Simulation,0,2005.4,0,6
+Free to Play,0,2005.4,0,9
+Sexual Content,0,2005.4,0,10
+Adventure,0,2005.5,0,2
+Casual,0,2005.5,0,3
+Simulation,0,2005.5,0,6
+Free to Play,0,2005.5,0,9
+Sexual Content,0,2005.5,0,10
+Adventure,0,2005.7,0,2
+Casual,0,2005.7,0,3
+Simulation,0,2005.7,0,6
+Free to Play,0,2005.7,0,9
+Sexual Content,0,2005.7,0,10
+Adventure,0,2006.1,0,2
+Casual,0,2006.1,0,3
+Simulation,0,2006.1,0,6
+Free to Play,0,2006.1,0,9
+Sexual Content,0,2006.1,0,10
+Adventure,0,2006.2,0,2
+Casual,0,2006.2,0,3
+Simulation,0,2006.2,0,6
+Free to Play,0,2006.2,0,9
+Sexual Content,0,2006.2,0,10
+Adventure,0,2006.3,0,2
+Casual,0,2006.3,0,3
+Simulation,0,2006.3,0,6
+Free to Play,0,2006.3,0,9
+Sexual Content,0,2006.3,0,10
+Adventure,0,2006.4,0,2
+Casual,0,2006.4,0,3
+Simulation,0,2006.4,0,6
+Free to Play,0,2006.4,0,9
+Sexual Content,0,2006.4,0,10
+Adventure,0,2006.5,0,2
+Simulation,0,2006.5,0,6
+Free to Play,0,2006.5,0,9
+Sexual Content,0,2006.5,0,10
+Adventure,0,2006.6,0,2
+Simulation,0,2006.6,0,6
+Free to Play,0,2006.6,0,9
+Sexual Content,0,2006.6,0,10
+Adventure,0,2006.7,0,2
+Simulation,0,2006.7,0,6
+Free to Play,0,2006.7,0,9
+Sexual Content,0,2006.7,0,10
+Adventure,0,2006.8,0,2
+Simulation,0,2006.8,0,6
+Free to Play,0,2006.8,0,9
+Sexual Content,0,2006.8,0,10
+Adventure,0,2006.9,0,2
+Simulation,0,2006.9,0,6
+Free to Play,0,2006.9,0,9
+Sexual Content,0,2006.9,0,10
+Simulation,0,2007.1,0,6
+Free to Play,0,2007.1,0,9
+Sexual Content,0,2007.1,0,10
+Simulation,0,2007.2,0,6
+Free to Play,0,2007.2,0,9
+Sexual Content,0,2007.2,0,10
+Simulation,0,2007.3,0,6
+Free to Play,0,2007.3,0,9
+Sexual Content,0,2007.3,0,10
+Simulation,0,2007.4,0,6
+Free to Play,0,2007.4,0,9
+Sexual Content,0,2007.4,0,10
+Simulation,0,2007.5,0,6
+Free to Play,0,2007.5,0,9
+Sexual Content,0,2007.5,0,10
+Simulation,0,2007.6,0,6
+Free to Play,0,2007.6,0,9
+Sexual Content,0,2007.6,0,10
+Simulation,0,2007.7,0,6
+Free to Play,0,2007.7,0,9
+Sexual Content,0,2007.7,0,10
+Simulation,0,2007.8,0,6
+Free to Play,0,2007.8,0,9
+Sexual Content,0,2007.8,0,10
+Simulation,0,2007.9,0,6
+Free to Play,0,2007.9,0,9
+Sexual Content,0,2007.9,0,10
+Simulation,0,2008.1,0,6
+Free to Play,0,2008.1,0,9
+Sexual Content,0,2008.1,0,10
+Simulation,0,2008.2,0,6
+Free to Play,0,2008.2,0,9
+Sexual Content,0,2008.2,0,10
+Free to Play,0,2008.3,0,9
+Sexual Content,0,2008.3,0,10
+Free to Play,0,2008.4,0,9
+Sexual Content,0,2008.4,0,10
+Free to Play,0,2008.5,0,9
+Sexual Content,0,2008.5,0,10
+Free to Play,0,2008.6,0,9
+Sexual Content,0,2008.6,0,10
+Free to Play,0,2008.7,0,9
+Sexual Content,0,2008.7,0,10
+Free to Play,0,2008.8,0,9
+Sexual Content,0,2008.8,0,10
+Free to Play,0,2008.9,0,9
+Sexual Content,0,2008.9,0,10
+Free to Play,0,2009.1,0,9
+Sexual Content,0,2009.1,0,10
+Free to Play,0,2009.2,0,9
+Sexual Content,0,2009.2,0,10
+Free to Play,0,2009.3,0,9
+Sexual Content,0,2009.3,0,10
+Free to Play,0,2009.4,0,9
+Sexual Content,0,2009.4,0,10
+Free to Play,0,2009.5,0,9
+Sexual Content,0,2009.5,0,10
+Free to Play,0,2009.6,0,9
+Sexual Content,0,2009.6,0,10
+Free to Play,0,2009.7,0,9
+Sexual Content,0,2009.7,0,10
+Free to Play,0,2009.8,0,9
+Sexual Content,0,2009.8,0,10
+Free to Play,0,2009.9,0,9
+Sexual Content,0,2009.9,0,10
+Free to Play,0,2010.1,0,9
+Sexual Content,0,2010.1,0,10
+Free to Play,0,2010.2,0,9
+Sexual Content,0,2010.2,0,10
+Free to Play,0,2010.3,0,9
+Sexual Content,0,2010.3,0,10
+Free to Play,0,2010.4,0,9
+Sexual Content,0,2010.4,0,10
+Free to Play,0,2010.5,0,9
+Sexual Content,0,2010.5,0,10
+Free to Play,0,2010.6,0,9
+Sexual Content,0,2010.6,0,10
+Free to Play,0,2010.7,0,9
+Sexual Content,0,2010.7,0,10
+Free to Play,0,2010.8,0,9
+Sexual Content,0,2010.8,0,10
+Free to Play,0,2010.9,0,9
+Sexual Content,0,2010.9,0,10
+Sexual Content,0,2011.1,0,10
+Sexual Content,0,2011.2,0,10
+Sexual Content,0,2011.3,0,10
+Sexual Content,0,2011.4,0,10
+Sexual Content,0,2011.5,0,10
+Sexual Content,0,2011.6,0,10
+Sexual Content,0,2011.7,0,10
+Sexual Content,0,2011.8,0,10
+Sexual Content,0,2011.9,0,10
+Sexual Content,0,2012.1,0,10
+Sexual Content,0,2012.2,0,10
+Sexual Content,0,2012.3,0,10
+Sexual Content,0,2012.4,0,10
+Sexual Content,0,2012.5,0,10
+Sexual Content,0,2012.6,0,10
+Sexual Content,0,2012.7,0,10
+Sexual Content,0,2012.8,0,10
+Sexual Content,0,2012.9,0,10
+Sexual Content,0,2013.1,0,10
+Sexual Content,0,2013.2,0,10
+Sexual Content,0,2013.3,0,10
+Sexual Content,0,2013.4,0,10
+Sexual Content,0,2013.5,0,10
+Sexual Content,0,2013.6,0,10
